@@ -2,6 +2,8 @@
 
 OtterGIF is a simple Windows app by LumiBear Studio that turns videos into GIFs.
 
+- **Privacy Policy / 개인정보 처리방침**: [PRIVACY.md](PRIVACY.md) — the app collects no data and works fully offline.
+
 ## Third-party source code
 
 OtterGIF bundles a copy of **FFmpeg** (`ffmpeg.exe`) built from unmodified source under the **GNU LGPL v2.1 or later**, statically linked with **zlib**.
