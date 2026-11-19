@@ -2,6 +2,8 @@
 
 OtterGIF is a simple Windows app by LumiBear Studio that turns videos into GIFs.
 
+- **Website**: [lumibear.dev/apps/ottergif](https://lumibear.dev/apps/ottergif/) · [Microsoft Store](https://apps.microsoft.com/detail/9N0DSSBVCN81)
+- **No install?** Make GIFs in your browser with the free [Video to GIF](https://lumibear.dev/tools/gif-maker/) tool — it uses the same size-fitting rules as the app, and nothing is uploaded.
 - **Privacy Policy / 개인정보 처리방침**: [PRIVACY.md](PRIVACY.md) — the app collects no data and works fully offline.
 
 ## Third-party source code
@@ -24,5 +26,7 @@ Each release contains:
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
 
 ---
+
+앱 소개와 받기: [lumibear.dev/ko/apps/ottergif](https://lumibear.dev/ko/apps/ottergif/) · 설치 없이 브라우저에서: [MP4 GIF 변환](https://lumibear.dev/ko/tools/gif-maker/)
 
 OtterGIF에 동봉된 ffmpeg.exe의 소스 코드(LGPL)와 빌드 정보를 공개하는 곳입니다. 파일은 [Releases](https://github.com/LumiBearStudio/OtterGif/releases)에 있습니다.
